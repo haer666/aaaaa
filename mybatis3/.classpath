@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="resources/|mapper/|mapper/|mapper/" kind="src" path="src"/>
+	<classpathentry kind="src" path="src/resources"/>
+	<classpathentry kind="lib" path="lib/dom4j-2.0.3.jar"/>
+	<classpathentry kind="lib" path="lib/gson-2.8.6.jar"/>
+	<classpathentry kind="lib" path="lib/jxl.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="lib/mybatis-3.5.4.jar"/>
+	<classpathentry kind="lib" path="lib/mysql-connector-java-5.1.49.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
